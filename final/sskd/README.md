@@ -7,7 +7,7 @@
 ## Results
 ### Food_LT dataset
 |    Methods   |  All acc. | Fre. acc. |   Comm. acc.  |   Rare acc.  |    
-| :------------: | :--------: | :----------: | :--------: | :--------: |
+| :------------: | :--------: | :--------: | :--------: | :--------: |
 |    [TADE](https://github.com/Vanint/TADE-AgnosticLT)   |   0.745   |    0.754    |   0.762   |   0.582  |
 |     Ours     |   0.792   |    0.821    |   0.792   |   0.587  |
 
