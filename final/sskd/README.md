@@ -1,5 +1,5 @@
 # Fine-grained long-tailed food image classification (ICCV'21 Workshop)
-## Contribution
+## Contribution [[Poster]](https://github.com/r09921135/dlcv/blob/master/final/sskd/poster.pdf)
 * Bring the Self-Supervised Knowledge Distillation (SSKD) into the long-tailed problem to have a better representation learning. 
 * Cumulative learning (CL) is adopted to avoid damaging the learned universal features when emphasizing the tail classes.
 * Propose Image-wise Test-time Aggregation (ITA) to learn the aggregation weights of three experts image-wisely in test-time.
