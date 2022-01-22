@@ -9,7 +9,7 @@
 |    Methods   |  All acc. | Fre. acc. |   Comm. acc.  |   Rare acc.  |    
 | :------------: | :--------: | :--------: | :--------: | :--------: |
 |    [TADE](https://github.com/Vanint/TADE-AgnosticLT)   |   0.745   |    0.754    |   0.762   |   0.582  |
-|     Ours     |   0.792   |    0.821    |   0.792   |   0.587  |
+|     Ours     |   **0.792**   |    **0.821**    |   **0.792**   |   **0.587**  |
 
 ## Training
 Run the following bash code, $1 below is the data directory:
