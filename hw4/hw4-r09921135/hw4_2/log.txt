@@ -1,0 +1,47 @@
+# images in train_set: 3951
+# images in valid_set: 406
+Device used: cuda
+Start training!
+Train | Epoch: 1, Loss: 4.04109, Acc: 0.06302
+Valid | Epoch: 1, Loss: 3.75091, Acc: 0.10837
+Train | Epoch: 2, Loss: 3.48822, Acc: 0.16755
+Valid | Epoch: 2, Loss: 3.35788, Acc: 0.15025
+Train | Epoch: 3, Loss: 3.10409, Acc: 0.23007
+Valid | Epoch: 3, Loss: 3.12514, Acc: 0.21182
+Train | Epoch: 4, Loss: 2.91602, Acc: 0.26044
+Valid | Epoch: 4, Loss: 3.00802, Acc: 0.24631
+Train | Epoch: 5, Loss: 2.75862, Acc: 0.29360
+Valid | Epoch: 5, Loss: 2.88869, Acc: 0.26601
+Train | Epoch: 6, Loss: 2.64245, Acc: 0.31460
+Valid | Epoch: 6, Loss: 2.81248, Acc: 0.30049
+Train | Epoch: 7, Loss: 2.57616, Acc: 0.33283
+Valid | Epoch: 7, Loss: 3.26676, Acc: 0.24631
+Train | Epoch: 8, Loss: 2.48190, Acc: 0.35206
+Valid | Epoch: 8, Loss: 2.77385, Acc: 0.29064
+Train | Epoch: 9, Loss: 2.41245, Acc: 0.36168
+Valid | Epoch: 9, Loss: 2.78518, Acc: 0.31281
+Train | Epoch: 10, Loss: 2.36053, Acc: 0.37256
+Valid | Epoch: 10, Loss: 2.69452, Acc: 0.31281
+Train | Epoch: 11, Loss: 2.25576, Acc: 0.39205
+Valid | Epoch: 11, Loss: 2.59704, Acc: 0.31281
+Train | Epoch: 12, Loss: 2.24756, Acc: 0.39813
+Valid | Epoch: 12, Loss: 2.67616, Acc: 0.33498
+Train | Epoch: 13, Loss: 2.19858, Acc: 0.40825
+Valid | Epoch: 13, Loss: 2.61518, Acc: 0.33990
+Train | Epoch: 14, Loss: 2.12421, Acc: 0.42723
+Valid | Epoch: 14, Loss: 2.63551, Acc: 0.32512
+Train | Epoch: 15, Loss: 2.05346, Acc: 0.44191
+Valid | Epoch: 15, Loss: 2.63751, Acc: 0.33498
+Train | Epoch: 16, Loss: 1.99438, Acc: 0.45406
+Valid | Epoch: 16, Loss: 2.52718, Acc: 0.33744
+Train | Epoch: 17, Loss: 1.94851, Acc: 0.46596
+Valid | Epoch: 17, Loss: 2.68104, Acc: 0.31281
+Train | Epoch: 18, Loss: 1.89937, Acc: 0.47127
+Saving model...
+Valid | Epoch: 18, Loss: 2.46335, Acc: 0.39655
+Train | Epoch: 19, Loss: 1.83377, Acc: 0.49253
+Saving model...
+Valid | Epoch: 19, Loss: 2.44571, Acc: 0.40394
+Train | Epoch: 20, Loss: 1.81109, Acc: 0.49152
+Valid | Epoch: 20, Loss: 2.50193, Acc: 0.34975
+
