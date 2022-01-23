@@ -1,0 +1,51 @@
+python3 train.py
+# images in train_set: 22500
+# images in valid_set: 2500
+Device used: cuda
+Start training!
+Train | Epoch: 1, Loss: 1.85117, Acc: 0.47645
+Valid | Epoch: 1, Loss: 1.23143, Acc: 0.63000
+Train | Epoch: 2, Loss: 1.25538, Acc: 0.62347
+Valid | Epoch: 2, Loss: 1.13611, Acc: 0.66280
+Train | Epoch: 3, Loss: 1.11080, Acc: 0.66371
+Valid | Epoch: 3, Loss: 0.97446, Acc: 0.69960
+Train | Epoch: 4, Loss: 0.97751, Acc: 0.70090
+Valid | Epoch: 4, Loss: 1.03514, Acc: 0.69200
+Train | Epoch: 5, Loss: 0.90648, Acc: 0.72520
+Valid | Epoch: 5, Loss: 0.98776, Acc: 0.70720
+Train | Epoch: 6, Loss: 0.84356, Acc: 0.73757
+Valid | Epoch: 6, Loss: 0.94585, Acc: 0.71960
+Train | Epoch: 7, Loss: 0.80099, Acc: 0.74656
+Valid | Epoch: 7, Loss: 0.94172, Acc: 0.72920
+Train | Epoch: 8, Loss: 0.75145, Acc: 0.76602
+Valid | Epoch: 8, Loss: 0.93346, Acc: 0.71680
+Train | Epoch: 9, Loss: 0.72296, Acc: 0.77819
+Valid | Epoch: 9, Loss: 0.92721, Acc: 0.73040
+Train | Epoch: 10, Loss: 0.44074, Acc: 0.86336
+Saving model...
+Valid | Epoch: 10, Loss: 0.61796, Acc: 0.81120
+Train | Epoch: 11, Loss: 0.33584, Acc: 0.89646
+Saving model...
+Valid | Epoch: 11, Loss: 0.58632, Acc: 0.82560
+Train | Epoch: 12, Loss: 0.29102, Acc: 0.90905
+Valid | Epoch: 12, Loss: 0.58090, Acc: 0.81800
+Train | Epoch: 13, Loss: 0.26273, Acc: 0.91832
+Valid | Epoch: 13, Loss: 0.59901, Acc: 0.82280
+Train | Epoch: 14, Loss: 0.23592, Acc: 0.92765
+Saving model...
+Valid | Epoch: 14, Loss: 0.59368, Acc: 0.82680
+Train | Epoch: 15, Loss: 0.20443, Acc: 0.93742
+Saving model...
+Valid | Epoch: 15, Loss: 0.58174, Acc: 0.82800
+Train | Epoch: 16, Loss: 0.19480, Acc: 0.94006
+Saving model...
+Valid | Epoch: 16, Loss: 0.58111, Acc: 0.82960
+Train | Epoch: 17, Loss: 0.18483, Acc: 0.94440
+Saving model...
+Valid | Epoch: 17, Loss: 0.58193, Acc: 0.83040
+Train | Epoch: 18, Loss: 0.18590, Acc: 0.94272
+Valid | Epoch: 18, Loss: 0.57688, Acc: 0.83040
+Train | Epoch: 19, Loss: 0.18294, Acc: 0.94463
+Valid | Epoch: 19, Loss: 0.57953, Acc: 0.82920
+Train | Epoch: 20, Loss: 0.17923, Acc: 0.94634
+Valid | Epoch: 20, Loss: 0.58494, Acc: 0.82760

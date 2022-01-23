@@ -1,0 +1,81 @@
+python3 train.py
+# images in train_set: 2000
+# images in valid_set: 257
+Device used: cuda
+Start training!
+Train | Epoch: 1, Loss: 1.52102
+Valid | Epoch: 1, mean_iou: 0.12671
+Train | Epoch: 2, Loss: 0.93090
+Valid | Epoch: 2, mean_iou: 0.32024
+Train | Epoch: 3, Loss: 0.72962
+Valid | Epoch: 3, mean_iou: 0.43336
+Train | Epoch: 4, Loss: 0.65963
+Valid | Epoch: 4, mean_iou: 0.48165
+Train | Epoch: 5, Loss: 0.60548
+Valid | Epoch: 5, mean_iou: 0.54015
+Saving images...
+Train | Epoch: 6, Loss: 0.53292
+Valid | Epoch: 6, mean_iou: 0.59072
+Train | Epoch: 7, Loss: 0.50314
+Valid | Epoch: 7, mean_iou: 0.59947
+Train | Epoch: 8, Loss: 0.46826
+Valid | Epoch: 8, mean_iou: 0.61837
+Train | Epoch: 9, Loss: 0.46229
+Valid | Epoch: 9, mean_iou: 0.62118
+Train | Epoch: 10, Loss: 0.43612
+Valid | Epoch: 10, mean_iou: 0.64581
+Saving images...
+Train | Epoch: 11, Loss: 0.40648
+Valid | Epoch: 11, mean_iou: 0.63869
+Train | Epoch: 12, Loss: 0.40994
+Valid | Epoch: 12, mean_iou: 0.63814
+Train | Epoch: 13, Loss: 0.38956
+Valid | Epoch: 13, mean_iou: 0.65913
+Train | Epoch: 14, Loss: 0.35288
+Valid | Epoch: 14, mean_iou: 0.66680
+Train | Epoch: 15, Loss: 0.35029
+Valid | Epoch: 15, mean_iou: 0.66937
+Train | Epoch: 16, Loss: 0.32156
+Valid | Epoch: 16, mean_iou: 0.66811
+Train | Epoch: 17, Loss: 0.32070
+Saving model...
+Valid | Epoch: 17, mean_iou: 0.68731
+Train | Epoch: 18, Loss: 0.29974
+Valid | Epoch: 18, mean_iou: 0.65372
+Train | Epoch: 19, Loss: 0.29700
+Valid | Epoch: 19, mean_iou: 0.67275
+Train | Epoch: 20, Loss: 0.28349
+Valid | Epoch: 20, mean_iou: 0.67408
+Train | Epoch: 21, Loss: 0.27269
+Valid | Epoch: 21, mean_iou: 0.67897
+Train | Epoch: 22, Loss: 0.25627
+Valid | Epoch: 22, mean_iou: 0.68335
+Train | Epoch: 23, Loss: 0.24222
+Valid | Epoch: 23, mean_iou: 0.66021
+Train | Epoch: 24, Loss: 0.23014
+Saving model...
+Valid | Epoch: 24, mean_iou: 0.68890
+Train | Epoch: 25, Loss: 0.21259
+Saving model...
+Valid | Epoch: 25, mean_iou: 0.69145
+Train | Epoch: 26, Loss: 0.19515
+Valid | Epoch: 26, mean_iou: 0.67563
+Train | Epoch: 27, Loss: 0.20317
+Valid | Epoch: 27, mean_iou: 0.65695
+Train | Epoch: 28, Loss: 0.22944
+Valid | Epoch: 28, mean_iou: 0.68597
+Train | Epoch: 29, Loss: 0.18343
+Valid | Epoch: 29, mean_iou: 0.67746
+Train | Epoch: 30, Loss: 0.16777
+Saving model...
+Valid | Epoch: 30, mean_iou: 0.70291
+Train | Epoch: 31, Loss: 0.16103
+Valid | Epoch: 31, mean_iou: 0.68720
+Train | Epoch: 32, Loss: 0.14971
+Valid | Epoch: 32, mean_iou: 0.68438
+Train | Epoch: 33, Loss: 0.14365
+Valid | Epoch: 33, mean_iou: 0.68582
+Train | Epoch: 34, Loss: 0.13609
+Valid | Epoch: 34, mean_iou: 0.69055
+Train | Epoch: 35, Loss: 0.12843
+Valid | Epoch: 35, mean_iou: 0.68571
